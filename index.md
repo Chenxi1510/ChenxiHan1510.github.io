@@ -66,7 +66,6 @@
 -  2018 Xi'an University of Posts and Telecommunications Innovation and Entrepreneurship Fund Project (2018SC-08), main completer
 -  2018 Shaanxi Province Natural Science Active Basic Research Program "Dual Tutorial System" Project for Scientific and Technological Innovation (2018JM6118), main completer
 
-
 ### Awards Information
 
 -   The outstanding undergraduate thesis of xi 'an university of posts and telecommunications
