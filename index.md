@@ -7,7 +7,7 @@
       <p><b>School of Communications and Information Engineering, Xi’an University of Posts and Telecommunications</b></p>
       <p><b>E-mail：13772405149@126.com, hanchenxi1510@gmail.com</b></p>
       <p><b>Address：618 West Chang'an Street, Chang'an District, Xi’an 710121</b></p>
-      <a href="/index.html">中文版</a>
+      <a href="/index-en.html">中文版</a>
     </td>
     <td width="25%">
       <img src="/CHENXI.jpg" width="100%">
