@@ -42,8 +42,8 @@
 
 ### Academic papers
 
-- [1] X. Li, X. Guo, ***P. Han***, X. Wang, H. Li and T. Luo, "Laplacian Redecomposition for Multimodal Medical Image Fusion," IEEE Transactions on Instrumentation and Measurement, vol. 69, no. 9, pp. 6880-6890, Sept. 2020, doi: 10.1109/TIM.2020.2975405.（JCR1）
-- [2] Wang Dian-Wei, ***Han Peng-Fei***, Fan Jiu-Lun, Liu Ying1, Xu Zhi-Jie, Wang Jing. "Multispectral image enhancement based on illuminance-reflection imaging model and morphology operation". Acta Physica Sinica, 2018, 67(21): 210701.(in chinese) (SCI: 000449700800004) EI: 20191106643662 JCR1 ***Corresponding author*** 
+- [1] X. Li, X. Guo, ***P. Han***, X. Wang, H. Li and T. Luo, "Laplacian Redecomposition for Multimodal Medical Image Fusion," IEEE Transactions on Instrumentation and Measurement, vol. 69, no. 9, pp. 6880-6890, Sept. 2020, doi: 10.1109/TIM.2020.2975405. JCR1
+- [2] Wang Dian-Wei, ***Han Peng-Fei***, Fan Jiu-Lun, Liu Ying1, Xu Zhi-Jie, Wang Jing. "Multispectral image enhancement based on illuminance-reflection imaging model and morphology operation". Acta Physica Sinica, 2018, 67(21): 210701.(in chinese) (SCI: 000449700800004) EI: 20191106643662 JCR3 ***Corresponding author*** 
 - [3] Wang Dian-Wei, ***Han Peng-Fei***, Liu Ying, Xu Zhi-Jie, Yongrui Qin, Wang Jing. "Progress of low light panoramic Image Enhancement". Journal of Xi'an University of Posts and Telecommunications, 2018，Vol.23(5)：48-53(in chinese) ***Corresponding author*** 
 - [4] WANG Dian-wei, ***HAN Peng-fei***, LI Da-xiang, LIU Ying, XU Zhi-jie, WANG Jing. "Low-light panoramic image enhancement based on detail-feature fusion"[J]. Control and Decision ,2019,34(12):2673-2678.(in chinese) （EI,CSCD） ***Corresponding author*** 
 - [5] Dianwei Wang, Xu Yang, ***Pengfei Han***, Ying Liu, Yongjun Xie, Haijun song. "Panoramic video moving small target detection algorithm in complex background"[J/OL]. Control and decision: 1-7 [2020-05-25](in chinese) 
@@ -54,7 +54,7 @@
 - [10] ***Pengfei Han***.etal "Underexposed Panoramic Image Enhancement via Adaptive Illumination and Reflectance Estimation", Signal Processing ( UNDER REVIEW ) ***Corresponding Author***
 - [11] Dianwei Wang, Yuanjie Hao, ***Pengfei Han***, Ying Liu, Zhijie Xu, Yongrui Qin. "Dense-connected Residual Sampling Network for Single License Plate Image Super-Resolution". IEEE Transaction on Intelligent Transportation Systems. (UNDER REVIEW) ***Corresponding Author***
 - [12] Wang Dianwei, Li Shunli, ***Han Pengfei***, Liu Ying, Jiang Jing, Ren Xincheng."Feature constraints defogging a single image of CycleGAN" , Journal of Frontiers of Computer Science & Technology(in chinese) ( UNDER REVIEW ) 
-- [13] Wang Dianwei, ***Xing Zhibin***, Han Pengfei, Liu Ying, Jiang Jing, Ren Xincheng. "Low illumination panoramic image enhancement algorithm based on simulated multi-exposure fusion", Optics and Precision Engineering (in chinese) ( UNDER REVIEW )            
+- [13] Wang Dianwei, Xing Zhibin, ***Han Pengfei***, Liu Ying, Jiang Jing, Ren Xincheng. "Low illumination panoramic image enhancement algorithm based on simulated multi-exposure fusion", Optics and Precision Engineering (in chinese) ( UNDER REVIEW )            
 
 
 ### Research project
