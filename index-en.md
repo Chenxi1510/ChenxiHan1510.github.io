@@ -7,7 +7,7 @@
       <p><b>西安邮电大学通信与信息工程学院</b></p>
       <p><b>邮箱：13772405149@126.com； hanchenxi1510@gmail.com</b></p>
       <p><b>地址：西安市长安区西长安街618号，邮编710121 </b></p>
-      <a href="/index-en.md">English Version</a>
+      <a href="/index.md">English Version</a>
     </td>
     <td width="25%">
       <img src="/CHENXI.jpg" width="100%">
