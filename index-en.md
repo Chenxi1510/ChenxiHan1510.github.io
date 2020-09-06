@@ -99,7 +99,7 @@
 ---
 
 ### 导师及合作者
-<a href="/http://www.xuptciip.com.cn/show.html?team-wangdianwei">Associate prof. D Wang</a> (XUPT, China),  <a href="/http://www.xuptciip.com.cn/show.html?team-lidaxiang">Associate prof. D Li</a>  (XUPT, China)， <a href="/http://www.xuptciip.com.cn/show.html?team-liuying">Prof. Y Liu</a>  (XUPT, China), <a href="/https://www.shu.ac.uk/about-us/our-people/staff-profiles/jing-wang">Dr J Wang</a>(UOS, UK), <a href="/https://pure.hud.ac.uk/en/persons/zhijie-xu">Prof. Z. Xu</a>(HUD, UK), <a href="/https://pure.hud.ac.uk/en/persons/louie-qin">Dr. Y Qin</a> (HUD, UK)
+<a href="/http://www.xuptciip.com.cn/show.html?team-wangdianwei">王殿伟副教授</a> (西安邮电大学, 中国),  <a href="/http://www.xuptciip.com.cn/show.html?team-lidaxiang">李大湘副教授</a>  (西安邮电大学, 中国)， <a href="/http://www.xuptciip.com.cn/show.html?team-liuying">刘颖教授</a>  (西安邮电大学, 中国), <a href="/https://www.shu.ac.uk/about-us/our-people/staff-profiles/jing-wang">王晶博士</a>(谢菲尔德大学, 英国), <a href="/https://pure.hud.ac.uk/en/persons/zhijie-xu">许志杰教授</a>(哈德斯菲尔德大学, 英国), <a href="/https://pure.hud.ac.uk/en/persons/louie-qin">覃泳睿博士</a> (哈德斯菲尔德大学, 英国)
 
  
 
