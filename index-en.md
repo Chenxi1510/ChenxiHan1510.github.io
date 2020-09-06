@@ -19,7 +19,7 @@
 ---
 
 韩鹏飞，男，陕西省宝鸡市，2016年7月于西安邮电大学广播电视工程专业获得工学学士学位，2019年6月于西安邮电大学信号与信息处理专业获得工学硕士学位。他是IEEE、CCF、CSIG、CAAI、CIE等会员。
-兴趣广泛：篮球、网球、足球、滑板、街车等均有涉及。独爱HIP-HOP和PUNK。
+兴趣广泛：篮球、网球、足球、滑板、街车等均有涉及。独爱HIP-HOP和PUNK音乐。
 
 ---
 
@@ -27,21 +27,21 @@
 
 - 2012-2016   西安邮电大学     广播电视工程(学士)
 - 2016-2019   西安邮电大学    信号与信息处理(硕士)
-
+---
 
 ### 实习背景
 
 - 2018.09-2019.06   中国科学院西安光学精密机械研究所        光学影像分析与学习中心(访问学生)
 - 2019.06-2020.01           西湖大学                   人工智能研究与创新实验室(访问学生、科研助理)
 - 2020.06至今              华中科技大学                       数据科学与计算机视觉实验室
-
+---
 
 ### 研究方向
 
 - 图像清晰化（图像去雾、光照不均就校正、低照度增强等）
 - 目标理解技术(目标检测、识别、跟踪，人脸识别)
 
-
+---
 ### 学术论文
 
 -  [1] X. Li, X. Guo, ***P. Han***, X. Wang, H. Li and T. Luo, "Laplacian Redecomposition for Multimodal Medical Image Fusion,"  IEEE Transactions on Instrumentation and              Measurement, vol. 69, no. 9, pp. 6880-6890, Sept. 2020, doi: 10.1109/TIM.2020.2975405.（中科院1区）
@@ -57,7 +57,7 @@
 -  [11] Dianwei Wang, Yuanjie Hao, ***Pengfei Han***, Ying Liu, Zhijie Xu, Yongrui Qin. Dense-connected Residual Sampling Network for Single License Plate Image Super-                 Resolution. IEEE Transaction on Intelligent Transportation Systems.       (UNDER REVIEW) 	    ***通讯作者***   
 -  [12] 王殿伟，李顺利，***韩鹏飞***，刘颖，姜静，任新成. 特征约束CycleGAN的单幅图像去雾, 计算机科学与探索      ( UNDER REVIEW )                  
 -  [13] 王殿伟，邢质斌，***韩鹏飞***，刘颖，姜静，任新成.  基于模拟多曝光融合的低照度全景图像增强算法, 光学精密工程  ( UNDER REVIEW )               
-
+---
 
 ### 科研项目
 
@@ -67,7 +67,7 @@
 -   《基于深度学习的多镜头单目标跟踪算法研究》, 主要完成人, 校际项目（负责图像清晰化）
 -    2018 西安邮电大学创新创业基金项目(2018SC-08) ,重要完成人；
 -    2018 陕西省自然科学积极基础研究计划科技创新“双导师制”项目（2018JM6118）,重要完成人；
-
+---
 
 
 ### 荣誉奖励
@@ -79,7 +79,7 @@
 -   研究生创新创业基金项目优秀答辩
 -   西安邮电大学优秀硕士学位论文
 
-
+---
 ### 学术服务
 
 - IEEE Trans on Multimedia
