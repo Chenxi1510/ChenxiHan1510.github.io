@@ -95,3 +95,12 @@
 - Pattern Recognition, IEEE Sensor Journal, IEEE Access
 - APPLIED SCIENCE, APPLIED INTELLIGENCE
 - PRCV2019, ICIP2019, ICPR2019,ICCC2020,PRCV2020
+
+---
+
+### 导师及合作者
+<a href="/http://www.xuptciip.com.cn/show.html?team-wangdianwei">Associate prof. D Wang</a> (XUPT, China),  <a href="/http://www.xuptciip.com.cn/show.html?team-lidaxiang">Associate prof. D Li</a>  (XUPT, China)， <a href="/http://www.xuptciip.com.cn/show.html?team-liuying">Prof. Y Liu</a>  (XUPT, China), 
+<a href="/https://www.shu.ac.uk/about-us/our-people/staff-profiles/jing-wang">Dr J Wang</a> ,<a href="/https://pure.hud.ac.uk/en/persons/zhijie-xu">Prof. Z. Xu</a> ,<a href="/https://pure.hud.ac.uk/en/persons/louie-qin">Dr. Y Qin</a> (HUD, UK)
+
+ 
+
