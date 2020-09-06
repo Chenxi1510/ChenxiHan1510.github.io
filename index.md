@@ -1,4 +1,4 @@
-<font face="Times New Roman">
+
 <div>
 <table border="0">
   <tr>
@@ -96,4 +96,3 @@ $$
 \end{cases}
 $$
 
-</font>
