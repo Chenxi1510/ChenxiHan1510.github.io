@@ -94,5 +94,5 @@
 
 ---
 ### Links to my mentors and friends
-<a href="/http://www.xuptciip.com.cn/show.html?team-wangdianwei">Associate prof. D Wang</a> (XUPT, China),  <a href="/http://www.xuptciip.com.cn/show.html?team-lidaxiang">Associate prof. D Li</a>(XUPT, China)， <a href="/http://www.xuptciip.com.cn/show.html?team-liuying">Prof. Y Liu</a>  (XUPT, China),  <a href="/https://www.shu.ac.uk/about-us/our-people/staff-profiles/jing-wang">Dr J Wang</a>(UOS, UK),  <a href="/https://pure.hud.ac.uk/en/persons/zhijie-xu">Prof. Z. Xu</a>(HUD, UK),  <a href="/https://pure.hud.ac.uk/en/persons/louie-qin">Dr. Y Qin</a> (HUD, UK)
+<a href="http://www.xuptciip.com.cn/show.html?team-wangdianwei"  target="_blank">Dr. D Wang</a> (XUPT, China),  <a href="http://www.xuptciip.com.cn/show.html?team-lidaxiang"  target="_blank">Dr. D Li</a>(XUPT, China),  <a href="http://www.xuptciip.com.cn/show.html?team-liuying"  target="_blank">Dr. Y Liu</a>  (XUPT, China),  <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/jing-wang"  target="_blank">Dr. J Wang</a>(UOS, UK),  <a href="https://pure.hud.ac.uk/en/persons/zhijie-xu"  target="_blank">Dr. Z. Xu</a>(HUD, UK),  <a href="/https://pure.hud.ac.uk/en/persons/louie-qin"  target="_blank">Dr. Y Qin</a> (HUD, UK)
 
