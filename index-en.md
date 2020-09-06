@@ -44,7 +44,7 @@
 ---
 ### 学术论文
 
--  [1] X. Li, X. Guo, ***P. Han***, X. Wang, H. Li and T. Luo, "Laplacian Redecomposition for Multimodal Medical Image Fusion,"  IEEE Transactions on Instrumentation and              Measurement, vol. 69, no. 9, pp. 6880-6890, Sept. 2020, doi: 10.1109/TIM.2020.2975405.（中科院1区）
+-  [1] X. Li, X. Guo, <font color=Red>***P. Han***</font>, X. Wang, H. Li and T. Luo, "Laplacian Redecomposition for Multimodal Medical Image Fusion,"  IEEE Transactions on Instrumentation and              Measurement, vol. 69, no. 9, pp. 6880-6890, Sept. 2020, doi: 10.1109/TIM.2020.2975405.（中科院1区）
 -  [2] 王殿伟，***韩鹏飞***，范九伦，刘颖，许志杰，王晶. 基于光照-反射成像模型和形态学操作的多谱段图像增强算法. 物理学报，2018, Vol.67(21): 210701-1~11. （中科院3区）  ***通信作者***
 -  [3] 王殿伟，***韩鹏飞***，刘颖，许志杰，覃泳睿，王晶. 低照度全景图像增强处理研究进展. 西安邮电大学学报，2018，Vol.23(5)：48-53   ***通信作者***
 -  [4] 王殿伟, ***韩鹏飞***, 李大湘, 刘颖, 许志杰, 王晶. 基于细节特征融合的低照度全景图像增强[J]. 控制与决策, 2019,34(12):2673-2678. （自动化学会B类期刊）       ***通信作者***
