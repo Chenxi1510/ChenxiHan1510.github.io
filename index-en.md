@@ -93,13 +93,14 @@
 - IEEE Trans on Intelligent Transportation Systems
 - Computer Vision and Image Understanding
 - Pattern Recognition, IEEE Sensor Journal, IEEE Access
-- APPLIED SCIENCE, APPLIED INTELLIGENCE
-- PRCV2019, ICIP2019, ICPR2019,ICCC2020,PRCV2020
+- Applied Science, Applied Intelligence
+- PRCV2019, ICIP2019, ICPR2019, ICCC2020, PRCV2020
 
 ---
 
 ### 导师及合作者
- <a href="http://www.xuptciip.com.cn/show.html?team-wangdianwei" target="_blank">王殿伟博士</a>(西安邮电大学, 中国),  <a href="http://www.xuptciip.com.cn/show.html?team-lidaxiang"  target="_blank">李大湘博士</a>(西安邮电大学, 中国),  <a href="http://www.xuptciip.com.cn/show.html?team-liuying"  target="_blank">刘颖博士</a>(西安邮电大学, 中国),  <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/jing-wang"  target="_blank">王晶博士</a>(谢菲尔德大学, 英国),  <a href="https://pure.hud.ac.uk/en/persons/zhijie-xu"  target="_blank">许志杰博士</a>(哈德斯菲尔德大学, 英国),  <a href="https://pure.hud.ac.uk/en/persons/louie-qin"  target="_blank">覃泳睿博士</a> (哈德斯菲尔德大学, 英国)
+ <a href="http://www.xuptciip.com.cn/show.html?team-wangdianwei" target="_blank">王殿伟博士</a>(西安邮电大学, 中国),  <a href="http://www.xuptciip.com.cn/show.html?team-lidaxiang"  target="_blank">李大湘博士</a>(西安邮电大学, 中国),  <a href="http://www.xuptciip.com.cn/show.html?team-liuying"  target="_blank">刘颖博士</a>(西安邮电大学, 中国),  <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/jing-wang"  target="_blank">王晶博士</a>(谢菲尔德大学, 英国),  <a href="https://pure.hud.ac.uk/en/persons/zhijie-xu"  target="_blank">许志杰博士</a>(哈德斯菲尔德大学, 英国),  <a href="https://pure.hud.ac.uk/en/persons/louie-qin"  target="_blank">覃泳睿博士</a> (哈德斯菲尔德大学, 英国)，  
+<a href="https://web.xidian.edu.cn/jiulunf/"  target="_blank">范九伦博士</a> (西安邮电大学, 中国)
 
 
 
