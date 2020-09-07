@@ -11,7 +11,7 @@
       <a href="/index-en.html">中文版</a>
     </td>
     <td width="25%">
-      <img src="/CHENXI.jpg" width="500%">
+      <img src="/CHENXI.jpg" width="100%">
     </td>
   </tr>
 </table>
