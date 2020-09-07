@@ -89,10 +89,10 @@
 - IEEE Trans on Intelligent Transportation Systems
 - Computer Vision and Image Understanding
 - Pattern Recognition, IEEE Sensor Journal, IEEE Access
-- APPLIED SCIENCE, APPLIED INTELLIGENCE
+- Applied Science, Applied Intelligence
 - PRCV2019, ICIP2019, ICPR2019,ICCC2020,PRCV2020
 
 ---
 ### Links to my mentors and friends
-<a href="http://www.xuptciip.com.cn/show.html?team-wangdianwei"  target="_blank">Dr. D Wang</a> (XUPT, China),  <a href="http://www.xuptciip.com.cn/show.html?team-lidaxiang"  target="_blank">Dr. D Li</a>(XUPT, China),  <a href="http://www.xuptciip.com.cn/show.html?team-liuying"  target="_blank">Dr. Y Liu</a>  (XUPT, China),  <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/jing-wang"  target="_blank">Dr. J Wang</a>(UOS, UK),  <a href="https://pure.hud.ac.uk/en/persons/zhijie-xu"  target="_blank">Dr. Z. Xu</a>(HUD, UK),  <a href="/https://pure.hud.ac.uk/en/persons/louie-qin"  target="_blank">Dr. Y Qin</a> (HUD, UK)
+<a href="http://www.xuptciip.com.cn/show.html?team-wangdianwei"  target="_blank">Dr. D Wang</a> (XUPT, China),  <a href="http://www.xuptciip.com.cn/show.html?team-lidaxiang"  target="_blank">Dr. D Li</a>(XUPT, China),  <a href="http://www.xuptciip.com.cn/show.html?team-liuying"  target="_blank">Dr. Y Liu</a>  (XUPT, China),  <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/jing-wang"  target="_blank">Dr. J Wang</a>(UOS, UK),  <a href="https://pure.hud.ac.uk/en/persons/zhijie-xu"  target="_blank">Dr. Z. Xu</a>(HUD, UK),  <a href="/https://pure.hud.ac.uk/en/persons/louie-qin"  target="_blank">Dr. Y Qin</a> (HUD, UK)，   <a href="http://www.xiyou.edu.cn/info/2407/68014.htm"  target="_blank">Dr. J Fan</a> (XUPT, China)
 
