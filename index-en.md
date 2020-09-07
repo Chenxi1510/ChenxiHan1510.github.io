@@ -46,19 +46,19 @@
 ---
 ### 学术论文
 
--  [1] X. Li, X. Guo, ***<font color=Red>P. Han</font>*** , X. Wang, H. Li and T. Luo, "Laplacian Redecomposition for Multimodal Medical Image Fusion,"  IEEE Transactions on Instrumentation and              Measurement, vol. 69, no. 9, pp. 6880-6890, Sept. 2020, doi: 10.1109/TIM.2020.2975405.（中科院1区）
--  [2] 王殿伟，***<font color=Red> 韩鹏飞 </font>*** ，范九伦，刘颖，许志杰，王晶. 基于光照-反射成像模型和形态学操作的多谱段图像增强算法. 物理学报，2018, Vol.67(21): 210701-1~11. （中科院3区）  ***通信作者***
--  [3] 王殿伟，***<font color=Red> 韩鹏飞 </font>*** ，刘颖，许志杰，覃泳睿，王晶. 低照度全景图像增强处理研究进展. 西安邮电大学学报，2018，Vol.23(5)：48-53   ***通信作者***
--  [4] 王殿伟, ***<font color=Red> 韩鹏飞 </font>*** , 李大湘, 刘颖, 许志杰, 王晶. 基于细节特征融合的低照度全景图像增强[J]. 控制与决策, 2019,34(12):2673-2678. （自动化学会B类期刊）       ***通信作者***
--  [5] 王殿伟,杨旭,***<font color=Red> 韩鹏飞 </font>*** ,刘颖,谢永军,宋海军.复杂背景下全景视频运动小目标检测算法[J/OL].控制与决策:1-7[2020-05-25].      （自动化学会B类期刊）
--  [6] ***Pengfei Han*** , Dianwei Wang, Xu Yang, Ying Liu, Daxiang Li，Zhijie Xu，Jing Wang. An Improved Adaptive Correction Algorithm For Non-uniform Illumination Panoramic          Image. 2019 IEEE 2nd International Conference on Electronic Information and Communication Technology . EI索引.              ***通信作者***
--  [7] ***<font color=Red> 韩鹏飞 </font>*** . 低照度全景图像增强算法研究[D].西安邮电大学, 2019. 中国优秀硕士学位论文全文数据库收录
--  [8] Chenchen Xu, ***<font color=Red> P. Han </font>***, Shu Dai, Qingsong Wang, Chuanlin Sun, You Lv. Detection of vehicles and pedestrians at intersections based on Mask R-CNN with SF-FPN.2020        IEEE 6th International Conference on Computer and Communications (ICCC). ACCEPT                    ***通信作者***
--  [9] Qian Wang, Tongxin Xue, Yi Wu, Fan Hu, ***<font color=Red> Pengfei Han </font>*** .Detection of key structure of auroral images based on weakly supervised learning. International Conference on                Artificial Intelligence and Pattern Recognition (AIPR 2020).  ACCEPT                   ***通信作者***
+-  [1] X. Li, X. Guo, ***<font color=Red>P. Han</font>***, X. Wang, H. Li and T. Luo, "Laplacian Redecomposition for Multimodal Medical Image Fusion,"  IEEE Transactions on Instrumentation and              Measurement, vol. 69, no. 9, pp. 6880-6890, Sept. 2020, doi: 10.1109/TIM.2020.2975405.（中科院1区）
+-  [2] 王殿伟, ***<font color=Red> 韩鹏飞 </font>***, 范九伦, 刘颖, 许志杰, 王晶. 基于光照-反射成像模型和形态学操作的多谱段图像增强算法. 物理学报，2018, Vol.67(21): 210701-1~11. （中科院3区）  ***通信作者***
+-  [3] 王殿伟, ***<font color=Red> 韩鹏飞 </font>***, 刘颖, 许志杰, 覃泳睿, 王晶. 低照度全景图像增强处理研究进展. 西安邮电大学学报，2018，Vol.23(5)：48-53   ***通信作者***
+-  [4] 王殿伟, ***<font color=Red> 韩鹏飞 </font>***, 李大湘, 刘颖, 许志杰, 王晶. 基于细节特征融合的低照度全景图像增强[J]. 控制与决策, 2019,34(12):2673-2678. （自动化学会B类期刊）       ***通信作者***
+-  [5] 王殿伟, 杨旭, ***<font color=Red> 韩鹏飞 </font>***, 刘颖, 谢永军, 宋海军. 复杂背景下全景视频运动小目标检测算法[J/OL].控制与决策:1-7[2020-05-25].      （自动化学会B类期刊）
+-  [6] ***Pengfei Han***, Dianwei Wang, Xu Yang, Ying Liu, Daxiang Li, Zhijie Xu, Jing Wang. An Improved Adaptive Correction Algorithm For Non-uniform Illumination Panoramic          Image. 2019 IEEE 2nd International Conference on Electronic Information and Communication Technology . EI索引.              ***通信作者***
+-  [7] ***<font color=Red> 韩鹏飞 </font>***. 低照度全景图像增强算法研究[D].西安邮电大学, 2019. 中国优秀硕士学位论文全文数据库收录
+-  [8] Chenchen Xu, ***<font color=Red> P. Han </font>***, Shu Dai, Qingsong Wang, Chuanlin Sun, You Lv. Detection of vehicles and pedestrians at intersections based on Mask R-CNN with SF-FPN.2020  IEEE 6th International Conference on Computer and Communications (ICCC). ACCEPT                    ***通信作者***
+-  [9] Qian Wang, Tongxin Xue, Yi Wu, Fan Hu, ***<font color=Red> Pengfei Han </font>***. Detection of key structure of auroral images based on weakly supervised learning. International Conference on Artificial Intelligence and Pattern Recognition (AIPR 2020).  ACCEPT                   ***通信作者***
 -  [10] ***<font color=Red> P. Han </font>***, Dianwei Wang. Underexposed Panoramic Image Enhancement via Adaptive Illumination and Reflectance Estimation, Signal Processing     ( UNDER REVIEW )           ***通信作者***
--  [11] Dianwei Wang, Yuanjie Hao, ***<font color=Red> P. Han </font>***, Ying Liu, Zhijie Xu, Yongrui Qin. Dense-connected Residual Sampling Network for Single License Plate Image Super-                 Resolution. IEEE Transaction on Intelligent Transportation Systems.       (UNDER REVIEW) 	    ***通讯作者***   
--  [12] 王殿伟，李顺利，***<font color=Red> 韩鹏飞 </font>*** ，刘颖，姜静，任新成. 特征约束CycleGAN的单幅图像去雾, 计算机科学与探索      ( UNDER REVIEW )                  
--  [13] 王殿伟，邢质斌，***<font color=Red> 韩鹏飞 </font>*** ，刘颖，姜静，任新成.  基于模拟多曝光融合的低照度全景图像增强算法, 光学精密工程  ( UNDER REVIEW )   
+-  [11] Dianwei Wang, Yuanjie Hao, ***<font color=Red> P. Han </font>***, Ying Liu, Zhijie Xu, Yongrui Qin. Dense-connected Residual Sampling Network for Single License Plate Image Super-Resolution. IEEE Transaction on Intelligent Transportation Systems.       (UNDER REVIEW) 	    ***通讯作者***   
+-  [12] 王殿伟, 李顺利, ***<font color=Red> 韩鹏飞 </font>***, 刘颖, 姜静, 任新成. 特征约束CycleGAN的单幅图像去雾, 计算机科学与探索      ( UNDER REVIEW )                  
+-  [13] 王殿伟, 邢质斌, ***<font color=Red> 韩鹏飞 </font>***, 刘颖, 姜静, 任新成. 基于模拟多曝光融合的低照度全景图像增强算法, 光学精密工程  ( UNDER REVIEW )   
 
 ---
 
@@ -68,8 +68,8 @@
 -   《复杂背景下的热红外目标的理解技术(CXJJ2017011)》, 主要完成人, 陕西省自然科学基础研究计划项目（负责图像增强）
 -   《基于Kinect的深度图像重建(CXJJ2017058)》, 主要完成人, 校际项目（负责图像清晰化）
 -   《基于深度学习的多镜头单目标跟踪算法研究》, 主要完成人, 校际项目（负责图像清晰化）
--    2018 西安邮电大学创新创业基金项目(2018SC-08) ,重要完成人
--    2018 陕西省自然科学积极基础研究计划科技创新“双导师制”项目（2018JM6118）,重要完成人
+-    2018 西安邮电大学创新创业基金项目(2018SC-08), 重要完成人
+-    2018 陕西省自然科学积极基础研究计划科技创新“双导师制”项目(2018JM6118), 重要完成人
 
 
 ---
