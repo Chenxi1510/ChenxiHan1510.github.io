@@ -21,7 +21,7 @@
 
 
 
-**PENGFEI HAN** received the B.E. degree in radio and television engineering, the M.S degree in signal and information processing from Xi’an University of Posts & Telecommunications, Xi’an, China, in 2016 and 2019, respectively. He is a member of IEEE, CCF, CSIG, CAAI, and CIE. His main research interests include image enhancement and deep learning. He serves as a technical reviewer for over 10 major scientific journals and conferences, such as IEEE TMM IEEE TIM, IEEE TCVST, CVPR2019 PRCV2019, PRCV2020 and so on.Personal interests: basketball, tennis, football, skateboard, streetcar, etc. 
+**PENGFEI HAN** received the B.E. degree in radio and television engineering, the M.S degree in signal and information processing from Xi’an University of Posts & Telecommunications, Xi’an, China, in 2016 and 2019, respectively. He is a member of ***IEEE***, ***CCF***, ***CSIG***, ***CAAI***, and***CIE***. His main research interests include ***image enhancement*** and ***deep learning***. He serves as a technical reviewer for over 10 major scientific journals and conferences, such as IEEE TMM IEEE TIM, IEEE TCVST, CVPR2019 PRCV2019, PRCV2020 and so on.Personal interests: basketball, tennis, football, skateboard, streetcar, etc. 
 
 ---
 
