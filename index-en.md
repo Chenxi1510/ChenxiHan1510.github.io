@@ -93,9 +93,9 @@
 
 **口头报告**
 
-- ICEICT2019(IEEE), Oral presentation, Poster
-- ICCC2020(IEEE), Oral presentation, Poster
-- AIPR2020(ACM), Oral presentation, Poster
+- ICEICT2019(IEEE), 口头报告, 海报
+- ICCC2020(IEEE), 口头报告, 海报
+- AIPR2020(ACM), 口头报告, 海报
 
 **审稿专家**： 
 - IEEE Trans on Multimedia
