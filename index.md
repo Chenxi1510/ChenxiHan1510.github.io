@@ -46,7 +46,7 @@
 ---
 ### Academic papers
 
-- [1] X. Li, X. Guo, ***P. Han***, X. Wang, H. Li and T. Luo, "Laplacian Redecomposition for Multimodal Medical Image Fusion," IEEE Transactions on Instrumentation and Measurement, vol. 69, no. 9, pp. 6880-6890, Sept. 2020, doi: 10.1109/TIM.2020.2975405. JCR1
+- [1] X. Li, X. Guo, **P. Han**, X. Wang, H. Li and T. Luo, "Laplacian Redecomposition for Multimodal Medical Image Fusion," IEEE Transactions on Instrumentation and Measurement, vol. 69, no. 9, pp. 6880-6890, Sept. 2020, doi: 10.1109/TIM.2020.2975405. JCR1
 - [2] Wang Dian-Wei, ***<font color=Red> Han Peng-Fei </font>***, Fan Jiu-Lun, Liu Ying1, Xu Zhi-Jie, Wang Jing. "Multispectral image enhancement based on illuminance-reflection imaging model and morphology operation". Acta Physica Sinica, 2018, 67(21): 210701.(in chinese) (SCI: 000449700800004) EI: 20191106643662 JCR3 ***Corresponding author*** 
 - [3] Wang Dian-Wei, ***<font color=Red> Han Peng-Fei </font>***, Liu Ying, Xu Zhi-Jie, Yongrui Qin, Wang Jing. "Progress of low light panoramic Image Enhancement". Journal of Xi'an University of Posts and Telecommunications, 2018，Vol.23(5)：48-53(in chinese) ***Corresponding author*** 
 - [4] WANG Dian-wei, ***<font color=Red> Han Peng-Fei </font>***, LI Da-xiang, LIU Ying, XU Zhi-jie, WANG Jing. "Low-light panoramic image enhancement based on detail-feature fusion"[J]. Control and Decision ,2019,34(12):2673-2678.(in chinese) （EI,CSCD） ***Corresponding author*** 
