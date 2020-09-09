@@ -46,7 +46,7 @@
 ---
 ### 学术论文
 
--  [1] X. Li, X. Guo, ***<font color=Red>P. Han</font>***, X. Wang, H. Li and T. Luo, "Laplacian Redecomposition for Multimodal Medical Image Fusion,"  IEEE Transactions on Instrumentation and              Measurement, vol. 69, no. 9, pp. 6880-6890, Sept. 2020, doi: 10.1109/TIM.2020.2975405.（中科院1区）
+-  [1] X. Li, X. Guo, ***<font color=Red>P. Han</font>***, X. Wang, H. Li and T. Luo, "Laplacian Redecomposition for Multimodal Medical Image Fusion,"  IEEE Transactions on Instrumentation and  Measurement, vol. 69, no. 9, pp. 6880-6890, Sept. 2020, doi: 10.1109/TIM.2020.2975405.（中科院1区）
 -  [2] 王殿伟, ***<font color=Red> 韩鹏飞 </font>***, 范九伦, 刘颖, 许志杰, 王晶. 基于光照-反射成像模型和形态学操作的多谱段图像增强算法. 物理学报，2018, Vol.67(21): 210701-1~11. （中科院3区）  ***通信作者***
 -  [3] 王殿伟, ***<font color=Red> 韩鹏飞 </font>***, 刘颖, 许志杰, 覃泳睿, 王晶. 低照度全景图像增强处理研究进展. 西安邮电大学学报，2018，Vol.23(5)：48-53   ***通信作者***
 -  [4] 王殿伟, ***<font color=Red> 韩鹏飞 </font>***, 李大湘, 刘颖, 许志杰, 王晶. 基于细节特征融合的低照度全景图像增强[J]. 控制与决策, 2019,34(12):2673-2678. （自动化学会B类期刊）       ***通信作者***
@@ -86,8 +86,18 @@
 
 ---
 ### 学术服务
+ **编辑**
+ 
+- 北京智源人工智能研究院2020智源大会   **编辑**
+- 北京智源人工智能研究院智源社区       **编辑**
 
-- 北京智源人工智能研究院2020智源大会及北京智源人工智能研究院智源社区 ***<font color=Red> 编辑 </font>***
+**口头报告**
+
+- ICEICT2019(IEEE), Oral presentation, Poster
+- ICCC2020(IEEE), Oral presentation, Poster
+- AIPR2020(ACM), Oral presentation, Poster
+
+**审稿专家**： 
 - IEEE Trans on Multimedia
 - IEEE Trans on Circuits and Systems for Video Technology
 - IEEE Trans on Instrumentation & Measurement
