@@ -82,14 +82,20 @@
 
 ---
 ### Academic services
+
 **Editor**：
+
 - The BAAI Conference 2020
 - The Community of the BAAI
+
 **Presenation**：
+
 ICEICT2019(IEEE), Oral presentation, Poster
 ICCC2020(IEEE), Oral presentation, Poster
 AIPR2020(ACM), Oral presentation, Poster
+
 **Reviewer**：
+
 - IEEE Trans on Multimedia
 - IEEE Trans on Circuits and Systems for Video Technology
 - IEEE Trans on Instrumentation & Measurement
