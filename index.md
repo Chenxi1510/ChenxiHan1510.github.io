@@ -82,7 +82,8 @@
 
 ---
 ### Academic services
-
+- P. Han serves as editor of the BAAI Conference 2020 and the Community of the BAAI
+*The reviewer of*：
 - IEEE Trans on Multimedia
 - IEEE Trans on Circuits and Systems for Video Technology
 - IEEE Trans on Instrumentation & Measurement
