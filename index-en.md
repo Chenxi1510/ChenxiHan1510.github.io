@@ -87,6 +87,7 @@
 ---
 ### 学术服务
 
+- 北京智源人工智能研究院2020智源大会及北京智源人工智能研究院智源社区 ***<font color=Red> 编辑 </font>***
 - IEEE Trans on Multimedia
 - IEEE Trans on Circuits and Systems for Video Technology
 - IEEE Trans on Instrumentation & Measurement
@@ -95,6 +96,7 @@
 - Pattern Recognition, IEEE Sensor Journal, IEEE Access
 - Applied Science, Applied Intelligence
 - PRCV2019, ICIP2019, ICPR2019, ICCC2020, PRCV2020
+
 
 ---
 
