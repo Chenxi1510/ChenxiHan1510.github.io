@@ -46,8 +46,8 @@
 - 2018.11.09, one paper is accepted by Acta Physica Sinica.
 - 2019.8.25, one paper is accepted by  Control and decision.
 - 2018.9.24, win the National Scholarship  (highest national wide scholarship for students in China)
-- 2019.07.01, one paper is published by China Master's Theses Full-text Database.
 - 2019.06.11, one paper is accepted by ICEICT. Oral
+- 2019.07.01, one paper is published by China Master's Theses Full-text Database.
 - 2020.03.18, one paper is accepted by IEEE Transactions on Instrumentation and Measurement.
 - 2020.08.08, one paper is accepted by AIPR. Oral
 - 2020.08.18, one paper is accepted by ICCC. Oral
