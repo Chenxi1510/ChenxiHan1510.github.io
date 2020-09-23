@@ -48,8 +48,9 @@
 - 2018.9.24, win the National Scholarship  (highest national wide scholarship for students in China)
 - 2019.07.01, one paper is published by China Master's Theses Full-text Database.
 - 2020.03.18, one paper is accepted by IEEE Transactions on Instrumentation and Measurement.
-- 2020.08.08, one paper is accepted by ICCC.
-- 2020.08.18, one paper is accepted by AIPR.
+- 2020.08.08, one paper is accepted by AIPR.
+
+- 2020.08.18, one paper is accepted by ICCC.
 - 2020.09.21, three paper is accepted by AIPR.
 ---
 ### Scientific Research
@@ -70,11 +71,11 @@
 - [8] Chenchen Xu, ***<font color=Yellow> Han Peng-Fei </font>***, Shu Dai, Qingsong Wang, Chuanlin Sun, You Lv. "Detection of vehicles and pedestrians at intersections based on Mask R-CNN with SF-FPN".2020 IEEE 6th International Conference on Computer and Communications (ICCC). ACCEPT ***Corresponding Author***
 - [9] Qian Wang, Tongxin Xue, Yi Wu, Fan Hu, ***<font color=Yellow> Han Peng-Fei </font>***. "Detection of key structure of auroral images based on weakly supervised learning". International Conference on Artificial Intelligence and Pattern Recognition (AIPR 2020). ACCEPT ***Corresponding Author***
 - [10] Wang Dianwei, Xing Zhibin, ***<font color=Yellow> Han Peng-Fei </font>***, Liu Ying, Jiang Jing, Ren Xincheng. "Low illumination panoramic image enhancement algorithm based on simulated multi-exposure fusion",  International Conference on Artificial Intelligence and Pattern Recognition (AIPR 2020). ACCEPT ***Corresponding Author***
-- [10] Wang Dianwei, Jing Zhai, ***<font color=Yellow> Han Peng-Fei </font>***, Jiang Jing, Ren Xincheng, Yongrui Qin, Zhijie Xu. "A No-reference Image Quality Assessment Method for Real Foggy Images",  International Conference on Artificial Intelligence and Pattern Recognition (AIPR 2020). ACCEPT ***Corresponding Author***
-- [11] Xihai Xie, Bowei Wang, ***<font color=Yellow> Pengfei Han </font>***. "An Improved OFDM time-frequency synchronization algorithm based on CAZAC sequence" International Conference on Artificial Intelligence and Pattern Recognition (AIPR 2020). ACCEPT ***Corresponding Author***
-- [11] ***<font color=Yellow> Han Peng-Fei </font>***.etal "Underexposed Panoramic Image Enhancement via Adaptive Illumination and Reflectance Estimation", Signal Processing ( UNDER REVIEW ) ***Corresponding Author***
-- [13] Dianwei Wang, Yuanjie Hao, ***<font color=Yellow> Han Peng-Fei </font>***, Ying Liu, Zhijie Xu, Yongrui Qin. "Dense-connected Residual Sampling Network for Single License Plate Image Super-Resolution". IEEE Transaction on Intelligent Transportation Systems. (UNDER REVIEW) ***Corresponding Author***
-- [14] Wang Dianwei, Li Shunli, ***<font color=Yellow> Han Peng-Fei </font>***, Liu Ying, Jiang Jing, Ren Xincheng."Feature constraints defogging a single image of CycleGAN" , Journal of Frontiers of Computer Science & Technology(in chinese) ( UNDER REVIEW ) 
+- [11] Wang Dianwei, Jing Zhai, ***<font color=Yellow> Han Peng-Fei </font>***, Jiang Jing, Ren Xincheng, Yongrui Qin, Zhijie Xu. "A No-reference Image Quality Assessment Method for Real Foggy Images",  International Conference on Artificial Intelligence and Pattern Recognition (AIPR 2020). ACCEPT ***Corresponding Author***
+- [12] Xihai Xie, Bowei Wang, ***<font color=Yellow> Pengfei Han </font>***. "An Improved OFDM time-frequency synchronization algorithm based on CAZAC sequence" International Conference on Artificial Intelligence and Pattern Recognition (AIPR 2020). ACCEPT ***Corresponding Author***
+- [13] ***<font color=Yellow> Han Peng-Fei </font>***.etal "Underexposed Panoramic Image Enhancement via Adaptive Illumination and Reflectance Estimation", Signal Processing ( UNDER REVIEW ) ***Corresponding Author***
+- [14] Dianwei Wang, Yuanjie Hao, ***<font color=Yellow> Han Peng-Fei </font>***, Ying Liu, Zhijie Xu, Yongrui Qin. "Dense-connected Residual Sampling Network for Single License Plate Image Super-Resolution". IEEE Transaction on Intelligent Transportation Systems. (UNDER REVIEW) ***Corresponding Author***
+- [15] Wang Dianwei, Li Shunli, ***<font color=Yellow> Han Peng-Fei </font>***, Liu Ying, Jiang Jing, Ren Xincheng."Feature constraints defogging a single image of CycleGAN" , Journal of Frontiers of Computer Science & Technology(in chinese) ( UNDER REVIEW ) 
      
 
 ---
