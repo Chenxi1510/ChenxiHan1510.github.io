@@ -49,9 +49,9 @@
 - 2019.07.01, one paper is published by China Master's Theses Full-text Database.
 - 2020.03.18, one paper is accepted by IEEE Transactions on Instrumentation and Measurement.
 - 2020.08.08, one paper is accepted by AIPR.
-
 - 2020.08.18, one paper is accepted by ICCC.
 - 2020.09.21, three paper is accepted by AIPR.
+
 ---
 ### Scientific Research
 
