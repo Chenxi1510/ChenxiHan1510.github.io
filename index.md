@@ -38,6 +38,20 @@
 - 2020.06-----                 Huazhong University of Science and Technology, ***BMAI***
 
 ---
+
+---
+### NEWS
+- 2018.08.09, one paper is accepted by  Journal of Xi'an University of Posts and Telecommunications.
+- 2018.10.25, one paper is accepted by Control and decision.
+- 2018.11.09, one paper is accepted by Acta Physica Sinica.
+- 2019.8.25, one paper is accepted by  Control and decision.
+- 2018.9.24, win the National Scholarship  (highest national wide scholarship for students in China)
+- 2019.07.01, one paper is published by China Master's Theses Full-text Database.
+- 2020.03.18, one paper is accepted by IEEE Transactions on Instrumentation and Measurement.
+- 2020.08.08, one paper is accepted by ICCC.
+- 2020.08.18, one paper is accepted by AIPR.
+- 2020.09.21, three paper is accepted by AIPR.
+---
 ### Scientific Research
 
 - Image processing, including：image defogging, uneven illumination correction, low illumination enhancement, etc.
@@ -52,13 +66,16 @@
 - [4] WANG Dian-wei, ***<font color=Yellow> Han Peng-Fei </font>***, LI Da-xiang, LIU Ying, XU Zhi-jie, WANG Jing. "Low-light panoramic image enhancement based on detail-feature fusion"[J]. Control and Decision ,2019,34(12):2673-2678.(in chinese) （EI,CSCD） ***Corresponding author*** 
 - [5] Dianwei Wang, Xu Yang, ***<font color=Yellow> Han Peng-Fei </font>***, Ying Liu, Yongjun Xie, Haijun song. "Panoramic video moving small target detection algorithm in complex background"[J/OL]. Control and decision: 1-7 [2020-05-25](in chinese) 
 - [6] ***<font color=Yellow> Han Peng-Fei </font>***, Dianwei Wang, Xu Yang, Ying Liu, Daxiang Li，Zhijie Xu，Jing Wang. "An Improved Adaptive Correction Algorithm For Non-uniform Illumination Panoramic Image". 2019 IEEE 2nd International Conference on Electronic Information and Communication Technology . EI. ***Corresponding Author***
-- [7] ***<font color=Yellow> Han Peng-Fei </font>***. "Research on Low-Light Panoramic Image Enhancement Algorithm"[D]. Xi'an University of Posts and Telecommunications, 2019. China Master’s Theses Full-text Databas(in chinese) 
+- [7] ***<font color=Yellow> Han Peng-Fei </font>***. "Research on Low-Light Panoramic Image Enhancement Algorithm"[D]. Xi'an University of Posts and Telecommunications, 2019. China Master’s Theses Full-text Database(in chinese) 
 - [8] Chenchen Xu, ***<font color=Yellow> Han Peng-Fei </font>***, Shu Dai, Qingsong Wang, Chuanlin Sun, You Lv. "Detection of vehicles and pedestrians at intersections based on Mask R-CNN with SF-FPN".2020 IEEE 6th International Conference on Computer and Communications (ICCC). ACCEPT ***Corresponding Author***
 - [9] Qian Wang, Tongxin Xue, Yi Wu, Fan Hu, ***<font color=Yellow> Han Peng-Fei </font>***. "Detection of key structure of auroral images based on weakly supervised learning". International Conference on Artificial Intelligence and Pattern Recognition (AIPR 2020). ACCEPT ***Corresponding Author***
-- [10] ***<font color=Yellow> Han Peng-Fei </font>***.etal "Underexposed Panoramic Image Enhancement via Adaptive Illumination and Reflectance Estimation", Signal Processing ( UNDER REVIEW ) ***Corresponding Author***
-- [11] Dianwei Wang, Yuanjie Hao, ***<font color=Yellow> Han Peng-Fei </font>***, Ying Liu, Zhijie Xu, Yongrui Qin. "Dense-connected Residual Sampling Network for Single License Plate Image Super-Resolution". IEEE Transaction on Intelligent Transportation Systems. (UNDER REVIEW) ***Corresponding Author***
-- [12] Wang Dianwei, Li Shunli, ***<font color=Yellow> Han Peng-Fei </font>***, Liu Ying, Jiang Jing, Ren Xincheng."Feature constraints defogging a single image of CycleGAN" , Journal of Frontiers of Computer Science & Technology(in chinese) ( UNDER REVIEW ) 
-- [13] Wang Dianwei, Xing Zhibin, ***<font color=Yellow> Han Peng-Fei </font>***, Liu Ying, Jiang Jing, Ren Xincheng. "Low illumination panoramic image enhancement algorithm based on simulated multi-exposure fusion", Optics and Precision Engineering (in chinese) ( UNDER REVIEW )            
+- [10] Wang Dianwei, Xing Zhibin, ***<font color=Yellow> Han Peng-Fei </font>***, Liu Ying, Jiang Jing, Ren Xincheng. "Low illumination panoramic image enhancement algorithm based on simulated multi-exposure fusion",  International Conference on Artificial Intelligence and Pattern Recognition (AIPR 2020). ACCEPT ***Corresponding Author***
+- [10] Wang Dianwei, Jing Zhai, ***<font color=Yellow> Han Peng-Fei </font>***, Jiang Jing, Ren Xincheng, Yongrui Qin, Zhijie Xu. "A No-reference Image Quality Assessment Method for Real Foggy Images",  International Conference on Artificial Intelligence and Pattern Recognition (AIPR 2020). ACCEPT ***Corresponding Author***
+- [11] Xihai Xie, Bowei Wang, ***<font color=Yellow> Pengfei Han </font>***. "An Improved OFDM time-frequency synchronization algorithm based on CAZAC sequence" International Conference on Artificial Intelligence and Pattern Recognition (AIPR 2020). ACCEPT ***Corresponding Author***
+- [11] ***<font color=Yellow> Han Peng-Fei </font>***.etal "Underexposed Panoramic Image Enhancement via Adaptive Illumination and Reflectance Estimation", Signal Processing ( UNDER REVIEW ) ***Corresponding Author***
+- [13] Dianwei Wang, Yuanjie Hao, ***<font color=Yellow> Han Peng-Fei </font>***, Ying Liu, Zhijie Xu, Yongrui Qin. "Dense-connected Residual Sampling Network for Single License Plate Image Super-Resolution". IEEE Transaction on Intelligent Transportation Systems. (UNDER REVIEW) ***Corresponding Author***
+- [14] Wang Dianwei, Li Shunli, ***<font color=Yellow> Han Peng-Fei </font>***, Liu Ying, Jiang Jing, Ren Xincheng."Feature constraints defogging a single image of CycleGAN" , Journal of Frontiers of Computer Science & Technology(in chinese) ( UNDER REVIEW ) 
+     
 
 ---
 ### Research project
@@ -76,7 +93,7 @@
 -   The outstanding undergraduate thesis of xi 'an university of posts and telecommunications
 -   The 2017 postgraduate scholarship of xi 'an university of posts and telecommunications
 -   The 2018 postgraduate scholarship of xi 'an university of posts and telecommunications
--   The national scholarship for graduate students
+-   The national scholarship for Postgraduate students
 -   The graduate student innovation and entrepreneurship fund project excellent defense
 -   The excellent master thesis of xi 'an university of posts and telecommunications
 
