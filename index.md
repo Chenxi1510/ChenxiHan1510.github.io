@@ -104,8 +104,8 @@
 
 **Editor**：
 
-- The BAAI Conference 2020
-- The Community of the BAAI
+- The BAAI Conference 2020,  **Editor**
+- The Community of the BAAI  **Editor**
 
 **Presenation**：
 
