@@ -59,14 +59,14 @@
 
 -2019.07.01，硕士论文被中国优秀硕士学位论文全文数据库收录。
 
--2020.03.18，一篇论文被《IEEE Transactions on Instrumentation and Measurement》IEEE Transactions on Instrumentation and Measurement
+-2020.03.18，一篇论文被《IEEE Transactions on Instrumentation and Measurement》接受录用
 
--2020.08.08，一篇论文被ACM国际会议“AIPR”录用
+-2020.08.08，一篇论文被ACM国际会议“AIPR”录用，口头报告
 
 
--2020.08.18，一篇论文被IEEE国际会议“ICCC"录用
+-2020.08.18，一篇论文被IEEE国际会议“ICCC"录用，口头报告
 
--2020.09.21，3篇论文被ACM国际会议“AIPR”录用
+-2020.09.21，3篇论文被ACM国际会议“AIPR”录用，口头报告
 
 ---
 ### 学术论文
