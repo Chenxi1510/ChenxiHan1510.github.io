@@ -44,6 +44,31 @@
 - 目标理解技术(目标检测、识别、跟踪，人脸识别)
 
 ---
+---
+###新闻
+
+-2018.08.09， 一篇论文被 《西安邮电大学学报》接受
+
+-2018.10.25，一篇论文被 《控制与决策》接受
+
+-2018.11.09，一篇论文被 《物理学报》接受
+
+-2019.8.25，一篇论文被 《控制与决策》接受
+
+-2018.9.24，获得研究生国家奖学金（中国学生最高级别奖学金）
+
+-2019.07.01，硕士论文被中国优秀硕士学位论文全文数据库收录。
+
+-2020.03.18，一篇论文被《IEEE Transactions on Instrumentation and Measurement》IEEE Transactions on Instrumentation and Measurement
+
+-2020.08.08，一篇论文被ACM国际会议“AIPR”录用
+
+
+-2020.08.18，一篇论文被IEEE国际会议“ICCC"录用
+
+-2020.09.21，3篇论文被ACM国际会议“AIPR”录用
+
+---
 ### 学术论文
 
 -  [1] X. Li, X. Guo, ***<font color=Yellow>P. Han</font>***, X. Wang, H. Li and T. Luo, "Laplacian Redecomposition for Multimodal Medical Image Fusion,"  IEEE Transactions on Instrumentation and  Measurement, vol. 69, no. 9, pp. 6880-6890, Sept. 2020, doi: 10.1109/TIM.2020.2975405.（中科院1区）
@@ -55,10 +80,13 @@
 -  [7] ***<font color=Yellow> 韩鹏飞 </font>***. 低照度全景图像增强算法研究[D].西安邮电大学, 2019. 中国优秀硕士学位论文全文数据库收录
 -  [8] Chenchen Xu, ***<font color=Yellow> P. Han </font>***, Shu Dai, Qingsong Wang, Chuanlin Sun, You Lv. Detection of vehicles and pedestrians at intersections based on Mask R-CNN with SF-FPN.2020  IEEE 6th International Conference on Computer and Communications (ICCC). ACCEPT                    ***通信作者***
 -  [9] Qian Wang, Tongxin Xue, Yi Wu, Fan Hu, ***<font color=Yellow> Pengfei Han </font>***. Detection of key structure of auroral images based on weakly supervised learning. International Conference on Artificial Intelligence and Pattern Recognition (AIPR 2020).  ACCEPT                   ***通信作者***
--  [10] ***<font color=Yellow> P. Han </font>***, Dianwei Wang. Underexposed Panoramic Image Enhancement via Adaptive Illumination and Reflectance Estimation, Signal Processing     ( UNDER REVIEW )           ***通信作者***
--  [11] Dianwei Wang, Yuanjie Hao, ***<font color=Yellow> P. Han </font>***, Ying Liu, Zhijie Xu, Yongrui Qin. Dense-connected Residual Sampling Network for Single License Plate Image Super-Resolution. IEEE Transaction on Intelligent Transportation Systems.       (UNDER REVIEW) 	    ***通讯作者***   
--  [12] 王殿伟, 李顺利, ***<font color=Yellow> 韩鹏飞 </font>***, 刘颖, 姜静, 任新成. 特征约束CycleGAN的单幅图像去雾, 计算机科学与探索      ( UNDER REVIEW )                  
--  [13] 王殿伟, 邢质斌, ***<font color=Yellow> 韩鹏飞 </font>***, 刘颖, 姜静, 任新成. 基于模拟多曝光融合的低照度全景图像增强算法, 光学精密工程  ( UNDER REVIEW )   
+-  [10] Wang Dianwei, Xing Zhibin, Han Peng-Fei , Liu Ying, Jiang Jing, Ren Xincheng. “Low illumination panoramic image enhancement algorithm based on simulated multi-exposure fusion”, International Conference on Artificial Intelligence and Pattern Recognition (AIPR 2020). ACCEPT Corresponding Author
+-  [11] Wang Dianwei, Jing Zhai, Han Peng-Fei , Jiang Jing, Ren Xincheng, Yongrui Qin, Zhijie Xu. “A No-reference Image Quality Assessment Method for Real Foggy Images”, International Conference on Artificial Intelligence and Pattern Recognition (AIPR 2020). ACCEPT ***通信作者***
+-  [12] Xihai Xie, Bowei Wang, Pengfei Han . “An Improved OFDM time-frequency synchronization algorithm based on CAZAC sequence” International Conference on Artificial Intelligence and Pattern Recognition (AIPR 2020). ACCEPT ***通信作者***
+-  [13] ***<font color=Yellow> P. Han </font>***, Dianwei Wang. Underexposed Panoramic Image Enhancement via Adaptive Illumination and Reflectance Estimation, Signal Processing     ( UNDER REVIEW )           ***通信作者***
+-  [14] Dianwei Wang, Yuanjie Hao, ***<font color=Yellow> P. Han </font>***, Ying Liu, Zhijie Xu, Yongrui Qin. Dense-connected Residual Sampling Network for Single License Plate Image Super-Resolution. IEEE Transaction on Intelligent Transportation Systems.       (UNDER REVIEW) 	    ***通讯作者***   
+-  [15] 王殿伟, 李顺利, ***<font color=Yellow> 韩鹏飞 </font>***, 刘颖, 姜静, 任新成. 特征约束CycleGAN的单幅图像去雾, 计算机科学与探索      ( UNDER REVIEW )                  
+ 
 
 ---
 
