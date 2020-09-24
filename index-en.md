@@ -143,5 +143,4 @@
  <a href="http://www.xuptciip.com.cn/show.html?team-wangdianwei" target="_blank">王殿伟博士</a>(西安邮电大学, 中国),  <a href="http://www.xuptciip.com.cn/show.html?team-lidaxiang"  target="_blank">李大湘博士</a>(西安邮电大学, 中国),  <a href="http://www.xuptciip.com.cn/show.html?team-liuying"  target="_blank">刘颖博士</a>(西安邮电大学, 中国),  
  <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/jing-wang"  target="_blank">王晶博士</a>(谢菲尔德大学, 英国),  <a href="https://pure.hud.ac.uk/en/persons/zhijie-xu"  target="_blank">许志杰博士</a>(哈德斯菲尔德大学, 英国),  <a href="https://pure.hud.ac.uk/en/persons/louie-qin"  target="_blank">覃泳睿博士</a> (哈德斯菲尔德大学, 英国),  <a href="http://www.xiyou.edu.cn/info/2407/68014.htm"  target="_blank">范九伦博士</a> (西安邮电大学, 中国)
 
-<a href="https://www.revolvermaps.com/livestats/5k17iztddfq/"><img src="//rf.revolvermaps.com/h/m/a/0/ff0000/128/0/5k17iztddfq.png" width="256" height="128" alt="Map" style="border:0;width:100%"></a>
-
+<a href="https://clustrmaps.com/site/1aytb" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=jnxMx_lqE95TbeHtMvfvbzLY_t5jH39xvza6jApKOX4&cl=ffffff" width="100%"></a>
