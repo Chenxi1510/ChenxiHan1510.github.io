@@ -77,7 +77,7 @@
 -  [3] 王殿伟, ***<font color=Yellow> 韩鹏飞 </font>***, 刘颖, 许志杰, 覃泳睿, 王晶. 低照度全景图像增强处理研究进展. 西安邮电大学学报，2018，Vol.23(5)：48-53   ***通信作者***
 -  [4] 王殿伟, ***<font color=Yellow> 韩鹏飞 </font>***, 李大湘, 刘颖, 许志杰, 王晶. 基于细节特征融合的低照度全景图像增强[J]. 控制与决策, 2019,34(12):2673-2678. （自动化学会B类期刊）       ***通信作者***
 -  [5] 王殿伟, 杨旭, ***<font color=Yellow> 韩鹏飞 </font>***, 刘颖, 谢永军, 宋海军. 复杂背景下全景视频运动小目标检测算法[J/OL].控制与决策:1-7[2020-05-25].      （自动化学会B类期刊）
--  [6] ***Pengfei Han***, Dianwei Wang, Xu Yang, Ying Liu, Daxiang Li, Zhijie Xu, Jing Wang. An Improved Adaptive Correction Algorithm For Non-uniform Illumination Panoramic          Image. 2019 IEEE 2nd International Conference on Electronic Information and Communication Technology . EI索引.              ***通信作者***
+-  [6] ***<font color=Yellow> Pengfei Han</font>***, Dianwei Wang, Xu Yang, Ying Liu, Daxiang Li, Zhijie Xu, Jing Wang. An Improved Adaptive Correction Algorithm For Non-uniform Illumination Panoramic    Image. 2019 IEEE 2nd International Conference on Electronic Information and Communication Technology . EI索引.              ***通信作者***
 -  [7] ***<font color=Yellow> 韩鹏飞 </font>***. 低照度全景图像增强算法研究[D].西安邮电大学, 2019. 中国优秀硕士学位论文全文数据库收录
 -  [8] Chenchen Xu, ***<font color=Yellow> P. Han </font>***, Shu Dai, Qingsong Wang, Chuanlin Sun, You Lv. Detection of vehicles and pedestrians at intersections based on Mask R-CNN with SF-FPN.2020  IEEE 6th International Conference on Computer and Communications (ICCC). ACCEPT                    ***通信作者***
 -  [9] Qian Wang, Tongxin Xue, Yi Wu, Fan Hu, ***<font color=Yellow> Pengfei Han </font>***. Detection of key structure of auroral images based on weakly supervised learning. International Conference on Artificial Intelligence and Pattern Recognition (AIPR 2020).  ACCEPT                   ***通信作者***
