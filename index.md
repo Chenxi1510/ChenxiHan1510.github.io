@@ -39,7 +39,7 @@
 
 ---
 
----
+
 ### NEWS
 - 2018.08.09, one paper is accepted by  Journal of Xi'an University of Posts and Telecommunications.
 - 2018.10.25, one paper is accepted by Control and decision.
